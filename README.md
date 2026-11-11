@@ -9,8 +9,9 @@ UCSF-PDGM Cohort".
   Kaplan-Meier and log-rank tests, Levene tests, power analysis, Lasso, figures).
 - analytical_dataset.csv: one row per patient (n = 494). qc_outlier = 1 marks the 7 quality-control
   outliers; the primary cohort (n = 487) is the rows with qc_outlier = 0.
-- results/: output tables referenced in the paper.
-- figures/: Figures 1 and 2.
+- Result tables (km_summary_*, logrank_levene_power_*, grade_pairwise_*, lasso_coefficients_*,
+  sensitivity_comparison.csv, table1_characteristics.csv): output tables referenced in the paper.
+- figure1_combined_results.png and figure2_flow_and_characteristics.pdf: Figures 1 and 2.
 
 ## Data source
 The source data are the UCSF-PDGM dataset (version 5), available from The Cancer Imaging Archive
