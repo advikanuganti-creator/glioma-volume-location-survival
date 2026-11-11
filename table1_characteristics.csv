@@ -1,0 +1,12 @@
+Variable,Final cohort,Missing (of 495)
+N,487,
+"Age at MRI, mean (SD), y",57.0 (15.0),0
+"Sex, female",198 (41%),0
+WHO grade 2,54 (11%),0
+WHO grade 3,41 (8%),
+WHO grade 4,392 (80%),
+Deaths,243 (50%),0
+Censored (alive at last follow-up),244 (50%),
+"OS / follow-up, median (IQR), days",421 (188-756),1
+"Median follow-up (reverse KM), days",846,
+"Tumor volume, median (IQR), cm3",81.8 (40.2-125.4),0

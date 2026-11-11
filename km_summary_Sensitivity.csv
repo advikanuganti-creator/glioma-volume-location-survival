@@ -1,0 +1,16 @@
+variable,group,n,events,censored,median_OS_days,median_CI_low,median_CI_high
+WHO CNS Grade,2,56,8,48,2191.0,2191.0,inf
+WHO CNS Grade,3,43,11,32,inf,998.0,inf
+WHO CNS Grade,4,395,228,167,545.0,472.0,627.0
+Sex,F,199,99,100,719.0,611.0,912.0
+Sex,M,295,148,147,653.0,531.0,799.0
+Age,High (>= median),250,148,102,446.0,394.0,539.0
+Age,Low (< median),244,99,145,1116.0,824.0,1690.0
+Tumor volume,High (>= median),247,133,114,593.0,446.0,729.0
+Tumor volume,Low (< median),247,114,133,743.0,633.0,1116.0
+Centroid X,High (>= median),247,113,134,753.0,635.0,1098.0
+Centroid X,Low (< median),247,134,113,611.0,465.0,729.0
+Centroid Y,High (>= median),247,133,114,667.0,554.0,777.0
+Centroid Y,Low (< median),247,114,133,663.0,591.0,1024.0
+Centroid Z,High (>= median),247,130,117,628.0,482.0,799.0
+Centroid Z,Low (< median),247,117,130,716.0,631.0,824.0

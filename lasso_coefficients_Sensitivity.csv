@@ -1,0 +1,11 @@
+feature,coefficient
+cat__WHO CNS Grade_G4,-0.38482193620617416
+num__Age at MRI,-0.36870997390256616
+cat__Sex_F,0.12848680126753664
+num__centroid_y,0.09823075772516054
+num__centroid_x,0.031695651422355246
+num__tumor_vol_cm3,-0.026724464019404093
+cat__Sex_M,-3.7369912216324016e-16
+num__centroid_z,0.0
+cat__WHO CNS Grade_G2,0.0
+cat__WHO CNS Grade_G3,0.0
